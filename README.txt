@@ -1,6 +1,6 @@
 In order to utilize this password detection program, you must do the following:
 1) Open your Terminal window.
-2) 
+2) In your Terminal window, type in "cd e-passtool" and enter. Do this a second time to access the tool itself.
 
 
 
